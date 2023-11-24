@@ -3,8 +3,9 @@ import { BrowserRouter, Link, Routes, Route } from 'react-router-dom';
 import Home from './components/pages/Home';
 import QuemSomos from './components/pages/QuemSomos';
 import Contato from './components/pages/Contato';
-import { FaHome, FaAt, FaRegUserCircle, FaBiohazard, FaFolder } from "react-icons/fa";
+import { FaHome, FaAt, FaRegUserCircle, FaBiohazard } from "react-icons/fa";
 import Calculadora from './components/Calculadora';
+
 
 function App() {
 
